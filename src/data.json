@@ -1,0 +1,122 @@
+{
+    "contact": {
+      "name": "Raman Srivastava",
+      "photoUrl": "https://cdn.icon-icons.com/icons2/1875/PNG/512/user_120285.png",
+      "location": " Fairfax, Virginia, 22030 ",
+      "phone": " 123-456-7890",
+      "email": " abc@gmail.com",
+      "linkedin": " https://www.linkedin.com/ ",
+      "github": " https://github.com/"
+    },
+  
+    "objective": "Accomplished leader in software Development, seeking a new career path with a renowed organization. I am looking for an opportunity where I can use and apply my passion for  professional experience to drive positive change in this world.",
+  
+    "education": [
+      {
+        "year": " Feb 2018 - Jan 2022 ",
+        "course": "B.E. (Computer Science & Engineering)",
+        "institution": " Engineering COllege ",
+        "university": " ABCD University",
+        "percentage": " "
+      },
+      {
+        "year": "May 2018",
+        "course": "12th ",
+        "institution": "  School, Fairfax, Virginia",
+        "university": "ICSE",
+        "percentage": "92.5"
+      },
+      {
+        "year": "May 2016",
+        "course": "10th",
+        "institution": " School, Fairfax, Virginia ",
+        "university": "ICSE",
+        "percentage": "94"
+      }
+    ],
+  
+    "languages": [
+      { "language": "English", "level": 4 },
+      { "language": "Hindi", "level": 5 }
+    ],
+  
+    "experience": [
+      {
+        "year": "Aug 2022 - Oct 2022",
+        "company": "ABC Pvt. Ltd.",
+        "position": "Backend & Frontend Developer",
+        "description": "Worked as a developer."
+      },
+      {
+        "year": "Oct 2022 -  Present",
+        "company": "ABC Company Pvt. Ltd.",
+        "position": "Application Developer",
+        "description": "Created  applications using Swift."
+      }
+    ],
+  
+    "certifications": [
+      {
+        "year": "Jul 2018 - Oct 2020",
+        "institution": "Google Certification Program",
+        "course": " App Development",
+        "description": "This training was in the field of android app development.",
+        "score": "90"
+      },
+      {
+        "year": "Jun 2020 - Dev 2020",
+        "institution": "Cisco",
+        "course": "Advanced Networking",
+        "description": "The training program consisted of varoius types of networking technologies, routing techniques",
+        "score": "85%"
+      }
+    ],
+  
+    "skills": [
+      "C++",
+      "Java",
+      "HTML5",
+      "CSS",
+      "JavaScript",
+      "jQuery",
+      "Node.js",
+      "MySQL",
+      "Android"
+    ],
+  
+    "projects": [
+      {
+        "title": "Project1",
+        "link": "https://project1.com",
+        "description": "Description of Project1"
+      },
+      {
+        "title": "Project2",
+        "link": "https://project-2.com",
+        "description": "Description of Project2"
+      }
+      
+    ],
+  
+    "projects_link": "https://projects.github.com",
+  
+    "workshops": [
+      {
+        "year": "Sep 2018",
+        "description": "Description of Workshop1 "
+      },
+      {
+        "year": "Nov 2020",
+        "description": "Description of Workshop2 "
+      }
+    ],
+  
+    "references": [
+      {
+        "name": "Mr. ABC Day",
+        "desig": "Assistant Professor, CSE Department",
+        "phone": " 0123456789",
+        "email": "abcday@gmail.com"
+      }
+    ]
+  }
